@@ -1,0 +1,119 @@
+body {
+  background-color: #f1f6f5;
+}
+
+section {
+  padding-top: 6rem;
+}
+
+/* nav */
+nav {
+  background-color: #1a5f7a;
+}
+
+nav .container a {
+  color: white;
+}
+
+nav .container a:hover {
+  color: #21e6c1;
+}
+
+/* akhir nav */
+
+/* herro / jumbotron */
+.jumbotron {
+  background-color: #f1f6f5;
+  padding-top: 6rem;
+}
+
+.jumbotron h1 {
+  color: #002b5b;
+}
+
+.jumbotron .navigasi {
+  margin: 0 auto;
+  width: 20%;
+  display: flex;
+  justify-content: space-around;
+}
+
+.jumbotron a {
+  text-decoration: none;
+}
+
+.jumbotron a h4 {
+  color: #002b5b;
+  font-size: 20px;
+  transition: 0.5s;
+  font-weight: normal;
+}
+
+.jumbotron a:hover h4 {
+  color: #57c5b6;
+  font-size: 22px;
+}
+
+/* akhir hero / jumbotron */
+
+/* about */
+.about {
+  background-color: #1a5f7a;
+  bottom: 0;
+}
+
+.about h2 {
+  color: #21e6c1;
+}
+
+.about .cards .card {
+  background-color: rgba(0, 0, 0, 0);
+}
+
+.about .cards .card h6 {
+  color: #21e6c1;
+}
+
+/* akhir about */
+
+/* project*/
+.mt-n1 {
+  margin-top: -3rem !important;
+}
+
+.project {
+  background-color: #f1f6f5;
+}
+
+/* akhir project */
+
+/* contact */
+.contact {
+  background-color: #1a5f7a;
+}
+
+/* akhir contact */
+
+/* footer */
+footer {
+  background-color: #f1f6f5;
+  ;
+}
+
+footer .container h3 {
+  color: #002b5b;
+}
+
+footer .container .nav {
+  background-color: #f1f6f5;
+}
+
+footer .container .nav a {
+  color: #002b5b;
+}
+
+footer .container .nav a:hover {
+  color: #069b80;
+}
+
+/* akhir footer */
