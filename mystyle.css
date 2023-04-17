@@ -3,7 +3,7 @@ body {
 }
 
 section {
-  padding-top: 6rem;
+  padding-top: 7rem;
 }
 
 /* nav */
@@ -24,7 +24,7 @@ nav .container a:hover {
 /* herro / jumbotron */
 .jumbotron {
   background-color: #f1f6f5;
-  padding-top: 6rem;
+  padding-top: 10rem;
 }
 
 .jumbotron h1 {
@@ -83,6 +83,10 @@ nav .container a:hover {
 
 .project {
   background-color: #f1f6f5;
+}
+
+.project H2 {
+  color: #002b5b;
 }
 
 /* akhir project */
